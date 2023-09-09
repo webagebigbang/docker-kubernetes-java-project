@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: productcatalogue
-        image: webagebigbang/productcatalogue:latest
+        image: webagebigbang/productcatalog:latest
         ports:
         - containerPort: 8020
         livenessProbe:

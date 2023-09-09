@@ -1,6 +1,4 @@
 version: 1.0-SNAPSHOT
- 
-
 server:
   applicationConnectors:
   - type: http
